@@ -1,6 +1,6 @@
 # Proyecto Urban Grocers 
 # Marcela Ortiz Montoya
-# Sprint 8, Grupo 14
+# Sprint 7, Grupo 14
 
 En este proyecto hice pruebas para la creación de un kit en la aplicación de Urban Grocers. Más específicamente, trabajé en la automatización de 9 pruebas distintas para el parámetro “name”, donde encontré 4 errores.
 
