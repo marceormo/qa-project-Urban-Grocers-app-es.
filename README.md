@@ -44,3 +44,7 @@ Aprendí a trabajar con GitHub y utilicé la terminal para clonar repositorios d
 4. Hacer pruebas en PyCharm con la ayuda del paquete de pytest.
 5. Correr pruebas.
 6. Revisar los resultados de las pruebas.
+
+### Como ejecutar las pruebas 
+Despues de tener todas las pruebas listas en el Pycharm tener instalado el paquete de pytest, dar clic en la parte superior y elegir la opcion “Current File”
+despues dar clic en el icono “Run”
