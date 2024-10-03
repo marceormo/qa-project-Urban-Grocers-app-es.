@@ -1,6 +1,5 @@
 headers = {
-    "Content-Type": "application/json",
-    "Authorization": "Bearer {'authToken'}"
+    "Content-Type": "application/json"
 }
 
 user_body = {
@@ -20,5 +19,5 @@ more_five_hundred_twelve_letter = "Abcdabcdabcdabcdabcdabcdabcdabcdabcdabcdabcda
 special_simbol = "\№%@\,"
 space_in_name = " A Aaa "
 has_number_in_name = "123"
-no_name = ""
+no_name = "name"
 number_type_name = 123

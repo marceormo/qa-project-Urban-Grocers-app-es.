@@ -3,7 +3,7 @@ import data
 
 # esta función cambia los valores en el parámetro "name"
 def get_kit_body(name):
-    current_body = data.user_body.copy()
+    current_body = data.product_kit.copy()
     current_body["name"] = name
     return current_body
 
@@ -68,7 +68,7 @@ def negative_assert_no_name(kit_body):
 #prueba 8 error
 #La solicitud no contiene el parámetro "name"
 def test_create_kit_body_no_name_get_error_response():
-    kit_body = data.user_body.copy()
+    kit_body = data.product_kit.copy()
     kit_body.pop(data.no_name)
     negative_assert_no_name(kit_body)
 
